@@ -67,7 +67,6 @@ class BandLeader():
     def _update_db(self):
         try:
             check = (self._current_track_record is not None
-                     and self._current_track_record is not None
                      and (len(self.database) == 0
                           or self.database[-1] != self._current_track_record)
                      and self.is_playing())
