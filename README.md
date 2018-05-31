@@ -2,9 +2,9 @@
 
 ## BandLeader
 
-The code sample found in `bandleader.py` accompanies [this](https://realpython.com/blog/python/modern-web-automation-with-python-and-selenium/) post on [realpython.com](https://realpython.com).  It introduces the reader to using Python to control headless web browsers. Specifically, `bandleader.py` lets you play music from [bandcamp](https://bandcamp.com) through your Python shell!
+The code sample found in `bandleader.py` accompanies [this](hhttps://realpython.com/modern-web-automation-with-python-and-selenium/) post on [realpython.com](https://realpython.com).  It introduces the reader to using Python to control headless web browsers. Specifically, `bandleader.py` lets you play music from [bandcamp](https://bandcamp.com) through your Python shell!
 
-To play around with `bandleader.py`, see the [the tutorial](https://realpython.com/blog/python/modern-web-automation-with-python-and-selenium/) for setting up, then run something like:
+To play around with `bandleader.py`, see the [the tutorial](https://realpython.com/modern-web-automation-with-python-and-selenium/) for setting up, then run something like:
 
 
 ```python
@@ -22,5 +22,3 @@ To play around with `bandleader.py`, see the [the tutorial](https://realpython.c
 >>> bl.browser.quit()    # close the webdriver instance
 
 ```
-
-
